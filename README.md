@@ -49,12 +49,12 @@ O código foi estruturado de forma modular, utilizando **funções bem definidas
 
 2. Clone este repositório:
    ```bash
-   git clone https://github.com/ThiaggoSylva/sistema-bancario.git
+   git clone https://github.com/ThiaggoSylva/Python-DIO.git
    ```
 
 3. Acesse a pasta do projeto:
    ```bash
-   cd sistema-bancario
+   cd Python-DIO
    ```
 
 4. Execute o programa:
