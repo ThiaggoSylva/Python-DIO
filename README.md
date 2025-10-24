@@ -31,14 +31,12 @@ O código foi estruturado de forma modular, utilizando **funções bem definidas
 
 ## 🧩 Estrutura do Projeto
 
+```
 📁 sistema_bancario/
 │
-
-├── main.py # Código principal com todas as funções do sistema
-
-└── README.md # Documentação do projeto
-
-
+├── main.py        # Código principal com todas as funções do sistema
+└── README.md      # Documentação do projeto
+```
 
 ---
 
@@ -47,36 +45,38 @@ O código foi estruturado de forma modular, utilizando **funções bem definidas
 1. Certifique-se de ter o **Python 3.8+** instalado:
    ```bash
    python --version
+   ```
 
-   
 2. Clone este repositório:
- ```bash
-git clone https://github.com/ThiaggoSylva/Python-DIO.git
+   ```bash
+   git clone https://github.com/ThiaggoSylva/sistema-bancario.git
+   ```
 
+3. Acesse a pasta do projeto:
+   ```bash
+   cd sistema-bancario
+   ```
 
+4. Execute o programa:
+   ```bash
+   python main.py
+   ```
 
-3.Acesse a pasta do projeto:
- ```bash
-cd sistema-bancario
+---
 
-
-
-4.Execute o programa:
- ```bash
-python main.py
-
-
-
+## ⚙️ Configurações Padrão
 
 | Configuração         | Valor padrão |
-| -------------------- | ------------ |
-| Agência              | 0001         |
-| Limite de saque      | R$ 500,00    |
-| Limite de saques/dia | 3            |
+|----------------------|---------------|
+| Agência              | 0001          |
+| Limite de saque      | R$ 500,00     |
+| Limite de saques/dia | 3             |
 
+---
 
+## 🧾 Exemplo de Uso
 
-🧾 Exemplo de Uso
+```
 ================ MENU ================
 [d] Depositar
 [s] Sacar
@@ -88,20 +88,19 @@ python main.py
 => d
 Informe o valor do depósito: 200
 === Depósito realizado com sucesso! ===
+```
 
+---
 
-🧑‍💻 Autor
+## 🧑‍💻 Autor
 
-Thiago de Lima Silva
-📧 [email](thiaggol.sylva@gmail.com)
-
+**Thiago de Lima Silva**  
+📧 [thiaggol.sylva@gmail.com](mailto:thiaggol.sylva@gmail.com)  
 🔗 [GitHub](https://github.com/ThiaggoSylva)
 
+---
 
+## 📜 Licença
 
-
-📜 Licença
-
-Este projeto é de uso livre para fins de estudo e aprendizado.
+Este projeto é de uso livre para fins de **estudo e aprendizado**.  
 Sinta-se à vontade para modificar e aprimorar o código. 🚀
-
