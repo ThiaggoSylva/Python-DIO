@@ -54,14 +54,15 @@ O código foi estruturado de forma modular, utilizando **funções bem definidas
 git clone https://github.com/ThiaggoSylva/Python-DIO.git
 
 
+
 3.Acesse a pasta do projeto:
  ```bash
 cd sistema-bancario
 
 
+
 4.Execute o programa:
  ```bash
-
 python main.py
 
 
