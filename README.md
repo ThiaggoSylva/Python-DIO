@@ -33,7 +33,9 @@ O código foi estruturado de forma modular, utilizando **funções bem definidas
 
 📁 sistema_bancario/
 │
+
 ├── main.py # Código principal com todas as funções do sistema
+
 └── README.md # Documentação do projeto
 
 
