@@ -31,105 +31,6 @@ O código foi estruturado de forma modular, utilizando **funções bem definidas
 
 ## 🧩 Estrutura do Projeto
 
-# 🏦 Sistema Bancário em Python
-
-Este projeto é um **sistema bancário simples**, desenvolvido em **Python puro**, com funcionalidades de **depósito**, **saque**, **extrato**, **cadastro de usuários** e **gerenciamento de contas**.
-
-O código foi estruturado de forma modular, utilizando **funções bem definidas** e boas práticas de programação, ideal para aprendizado e prática de lógica em Python.
-
----
-
-## 🚀 Funcionalidades
-
-- **Depositar (`[d]`)** – Permite adicionar saldo à conta.  
-- **Sacar (`[s]`)** – Permite realizar saques, respeitando limite de valor e quantidade de saques diários.  
-- **Extrato (`[e]`)** – Exibe todas as movimentações e o saldo atual.  
-- **Novo Usuário (`[nu]`)** – Cadastra um novo cliente com CPF, nome, data de nascimento e endereço.  
-- **Nova Conta (`[nc]`)** – Cria uma nova conta vinculada a um usuário existente.  
-- **Listar Contas (`[lc]`)** – Lista todas as contas cadastradas, exibindo agência, número e titular.  
-- **Sair (`[q]`)** – Encerra o programa.
-
----
-
-## 🧠 Conceitos aplicados
-
-- Funções com **parâmetros posicionais e nomeados** (`/` e `*`)  
-- Estrutura de dados com **listas e dicionários**  
-- **Controle de fluxo** (`if`, `elif`, `else`)  
-- **Loops e menus interativos**  
-- **Organização modular** do código  
-- **Boas práticas de nomenclatura e legibilidade**
-
----
-
-## 🧩 Estrutura do Projeto
-
-# 🏦 Sistema Bancário em Python
-
-Este projeto é um **sistema bancário simples**, desenvolvido em **Python puro**, com funcionalidades de **depósito**, **saque**, **extrato**, **cadastro de usuários** e **gerenciamento de contas**.
-
-O código foi estruturado de forma modular, utilizando **funções bem definidas** e boas práticas de programação, ideal para aprendizado e prática de lógica em Python.
-
----
-
-## 🚀 Funcionalidades
-
-- **Depositar (`[d]`)** – Permite adicionar saldo à conta.  
-- **Sacar (`[s]`)** – Permite realizar saques, respeitando limite de valor e quantidade de saques diários.  
-- **Extrato (`[e]`)** – Exibe todas as movimentações e o saldo atual.  
-- **Novo Usuário (`[nu]`)** – Cadastra um novo cliente com CPF, nome, data de nascimento e endereço.  
-- **Nova Conta (`[nc]`)** – Cria uma nova conta vinculada a um usuário existente.  
-- **Listar Contas (`[lc]`)** – Lista todas as contas cadastradas, exibindo agência, número e titular.  
-- **Sair (`[q]`)** – Encerra o programa.
-
----
-
-## 🧠 Conceitos aplicados
-
-- Funções com **parâmetros posicionais e nomeados** (`/` e `*`)  
-- Estrutura de dados com **listas e dicionários**  
-- **Controle de fluxo** (`if`, `elif`, `else`)  
-- **Loops e menus interativos**  
-- **Organização modular** do código  
-- **Boas práticas de nomenclatura e legibilidade**
-
----
-
-## 🧩 Estrutura do Projeto
-
-# 🏦 Sistema Bancário em Python
-
-Este projeto é um **sistema bancário simples**, desenvolvido em **Python puro**, com funcionalidades de **depósito**, **saque**, **extrato**, **cadastro de usuários** e **gerenciamento de contas**.
-
-O código foi estruturado de forma modular, utilizando **funções bem definidas** e boas práticas de programação, ideal para aprendizado e prática de lógica em Python.
-
----
-
-## 🚀 Funcionalidades
-
-- **Depositar (`[d]`)** – Permite adicionar saldo à conta.  
-- **Sacar (`[s]`)** – Permite realizar saques, respeitando limite de valor e quantidade de saques diários.  
-- **Extrato (`[e]`)** – Exibe todas as movimentações e o saldo atual.  
-- **Novo Usuário (`[nu]`)** – Cadastra um novo cliente com CPF, nome, data de nascimento e endereço.  
-- **Nova Conta (`[nc]`)** – Cria uma nova conta vinculada a um usuário existente.  
-- **Listar Contas (`[lc]`)** – Lista todas as contas cadastradas, exibindo agência, número e titular.  
-- **Sair (`[q]`)** – Encerra o programa.
-
----
-
-## 🧠 Conceitos aplicados
-
-- Funções com **parâmetros posicionais e nomeados** (`/` e `*`)  
-- Estrutura de dados com **listas e dicionários**  
-- **Controle de fluxo** (`if`, `elif`, `else`)  
-- **Loops e menus interativos**  
-- **Organização modular** do código  
-- **Boas práticas de nomenclatura e legibilidade**
-
----
-
-## 🧩 Estrutura do Projeto
-
 📁 sistema_bancario/
 │
 ├── main.py # Código principal com todas as funções do sistema
@@ -147,15 +48,19 @@ O código foi estruturado de forma modular, utilizando **funções bem definidas
 
    
 2. Clone este repositório:
-
+   ```bash
 git clone https://github.com/ThiaggoSylva/Python-DIO.git
 
 
 3.Acesse a pasta do projeto:
+ ```bash
+
 cd sistema-bancario
 
 
 4.Execute o programa:
+ ```bash
+
 python main.py
 
 
