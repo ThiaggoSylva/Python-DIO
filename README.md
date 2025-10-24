@@ -59,7 +59,7 @@ O código foi estruturado de forma modular, utilizando **funções bem definidas
 
 4. Execute o programa:
    ```bash
-   python main.py
+   run python file
    ```
 
 ---
