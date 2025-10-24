@@ -91,7 +91,7 @@ Informe o valor do depósito: 200
 🧑‍💻 Autor
 
 Thiago de Lima Silva
-📧 mailto:thiaggol.sylva@gmail.com
+📧 [email](thiaggol.sylva@gmail.com)
 
 🔗 [GitHub](https://github.com/ThiaggoSylva)
 
